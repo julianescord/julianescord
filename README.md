@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 Welcome to my GitHub! Here, I apply **data science, AI, and machine learning** to solve real-world **healthcare challenges**.  
 
 🚑 **What I Do:**  
-- Predict patient outcomes 📈  
-- Analyze medical images 🩻  
-- Optimize hospital operations 🏥  
-- Model disease outbreaks 🦠  
+- Predict patient outcomes   
+- Analyze medical images  
+- Optimize hospital operations  
+- Model disease outbreaks 
 
 🚀 **Check out my portfolio for full projects:**  
-[🔗 Julian’s Health Data Science Portfolio](#)  
 
-📧 **Contact:** julian.biomedsci@datamail.com  
-📌 **LinkedIn:** [linkedin.com/in/julian-biohealth](#)  
+Are you intereste un what you see, checkout my complete portafolio
+
+[🔗 Julian’s Health Data Science Portfolio](#)
