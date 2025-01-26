@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👨‍⚕️ Hey, I'm Julian! 👨‍💻  
-
-*"Merging medicine and data science—because patients deserve better predictions than the weather forecast."* ⛅📊  
-
-Welcome to my GitHub! Here, I apply **data science, AI, and machine learning** to solve real-world **healthcare challenges**.  
+Im a biomedical engineer passionated about healthcare data. Here, I apply **data science, AI, and machine learning** to solve real-world **healthcare problems**.  
 
 🚑 **What I Do:**  
 - Predict patient outcomes   
