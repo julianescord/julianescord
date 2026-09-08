@@ -1,28 +1,34 @@
-<!--
-**julianescord/julianescord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Julián 👋
 
-Here are some ideas to get you started:
+Biomedical Engineer (Yachay Tech University) working at the intersection of
+**nanotechnology, AI/machine learning, and healthcare/agriculture research**.
+My undergraduate thesis focuses on green-synthesized nanoparticles for
+antimicrobial textiles, and I co-lead the Nanotechnology Department at
+[Phagen Tech](https://phagentech.com/), where I combine biomaterials
+research with applied machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👨‍⚕️ Hey, I'm Julian! 👨‍💻  
-Im a biomedical engineer passionated about healthcare data. Here, I apply **data science, AI, and machine learning** to solve real-world **healthcare problems**.  
+- 🔬 **Research**: nanobiotechnology, controlled-release drug delivery,
+  bacteriophage-based systems, materials characterization
+- 🤖 **AI/ML**: applied to biosciences — RNA-seq analysis, predictive models,
+  and agentic workflows via [MatterIA](https://github.com/julianescord/MatterIA-Legal),
+  a self-hosted automation platform I founded
+- 🎓 **Teaching**: physics, math, and R/bioscience programming — I've led
+  courses and mentored 70+ students
+- 📄 Co-author on peer-reviewed work in *Biomolecules* (Q1) and *Springer
+  Nature*
 
-🚑 **What I Do:**  
-- Predict patient outcomes   
-- Analyze medical images  
-- Optimize hospital operations  
-- Model disease outbreaks 
+**Recent/active projects:**
+- [`comsol-phage-rhizosphere`](https://github.com/julianescord/comsol-phage-rhizosphere) —
+  COMSOL FEM model of controlled bacteriophage release for agricultural
+  applications
+- [`MatterIA-Legal`](https://github.com/julianescord/MatterIA-Legal) —
+  automation infrastructure (n8n, Docker, MCP)
+- [`IBM-Data-Science`](https://github.com/julianescord/IBM-Data-Science) —
+  data science coursework and projects
 
-🚀 **Check out my portfolio for full projects:**  
+🚧 **[Portfolio](https://github.com/julianescord/Portafolio)** — building this
+out as a running index of my public projects, each with a short description.
+More public-facing work aligned with my career strategy is coming soon.
 
-Are you intereste un what you see, checkout my complete portafolio
-
-[🔗 Julian’s Health Data Science Portfolio](#)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/julianescord) or
+`nailujzenodro@hotmail.com`
