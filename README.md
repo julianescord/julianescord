@@ -33,8 +33,9 @@ software projects and research, in one place.
 - [`comsol-phage-rhizosphere`](https://github.com/julianescord/comsol-phage-rhizosphere) —
   COMSOL FEM model of controlled bacteriophage release for agricultural
   applications
-- [`IBM-Data-Science`](https://github.com/julianescord/IBM-Data-Science) —
-  data science coursework and projects
+- [`yakuponia-biosensors`](https://github.com/julianescord/yakuponia-biosensors) —
+  in silico design of bacterial biosensors for phthalate and heavy-metal
+  detection in hydroponic crops, with a MazEF kill switch for containment
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/julianescord) or
 `nailujzenodro@hotmail.com`
